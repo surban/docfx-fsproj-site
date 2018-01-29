@@ -1,0 +1,795 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Namespace1
+  name: Namespace1
+  href: api/Namespace1.html
+  commentId: N:Namespace1
+  fullName: Namespace1
+  nameWithType: Namespace1
+- uid: Namespace1.Module1
+  name: Module1 (mod)
+  href: api/Namespace1.Module1.html
+  commentId: T:Namespace1.Module1
+  fullName: Namespace1.Module1
+  nameWithType: Namespace1.Module1
+- uid: Namespace1.Module1.BException
+  name: Module1.BException (excp)
+  href: api/Namespace1.Module1.BException.html
+  commentId: T:Namespace1.Module1.BException
+  fullName: Namespace1.Module1.BException
+  nameWithType: Namespace1.Module1.BException
+- uid: Namespace1.Module1.BException.Data0
+  name: 'val Data0: string'
+  href: api/Namespace1.Module1.BException.html#Namespace1_Module1_BException_Data0
+  commentId: P:Namespace1.Module1.BException.Data0
+  fullName: 'val Namespace1.Module1.BException.Data0: string'
+  nameWithType: 'val BException.Data0: string'
+- uid: Namespace1.Module1.const1()
+  name: val const1
+  href: api/Namespace1.Module1.html#Namespace1_Module1_const1__
+  commentId: P:Namespace1.const1
+  fullName: 'val Namespace1.Module1.const1: float'
+  nameWithType: 'val Module1.const1: float'
+- uid: Namespace1.Module1.func0(string * int)
+  name: 'val func0: string * int -> unit'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func0_string___int_
+  commentId: M:Namespace1.func0(System.String,System.Int32)
+  fullName: 'val Namespace1.Module1.func0: string * int -> unit'
+  nameWithType: 'val Module1.func0: string * int -> unit'
+- uid: Namespace1.Module1.func0*
+  name: func0
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func0_
+  commentId: Overload:Namespace1.Module1.func0*
+  fullName: Namespace1.Module1.func0
+  nameWithType: Module1.func0
+- uid: Namespace1.Module1.func1(string -> int)
+  name: 'val func1: string -> int -> unit'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func1_string____int_
+  commentId: M:Namespace1.func1(System.String,System.Int32)
+  fullName: 'val Namespace1.Module1.func1: string -> int -> unit'
+  nameWithType: 'val Module1.func1: string -> int -> unit'
+- uid: Namespace1.Module1.func1*
+  name: func1
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func1_
+  commentId: Overload:Namespace1.Module1.func1*
+  fullName: Namespace1.Module1.func1
+  nameWithType: Module1.func1
+- uid: Namespace1.Module1.func1Ary(int [])
+  name: 'val func1Ary: int [] -> unit'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func1Ary_int____
+  commentId: M:Namespace1.func1Ary(System.Int32[])
+  fullName: 'val Namespace1.Module1.func1Ary: int [] -> unit'
+  nameWithType: 'val Module1.func1Ary: int [] -> unit'
+- uid: Namespace1.Module1.func1Ary*
+  name: func1Ary
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func1Ary_
+  commentId: Overload:Namespace1.Module1.func1Ary*
+  fullName: Namespace1.Module1.func1Ary
+  nameWithType: Module1.func1Ary
+- uid: Namespace1.Module1.func3(int option)
+  name: 'val func3: int option -> int'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func3_int_option_
+  commentId: M:Namespace1.func3(Microsoft.FSharp.Core.FSharpOption{System.Int32})
+  fullName: 'val Namespace1.Module1.func3: int option -> int'
+  nameWithType: 'val Module1.func3: int option -> int'
+- uid: Namespace1.Module1.func3*
+  name: func3
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func3_
+  commentId: Overload:Namespace1.Module1.func3*
+  fullName: Namespace1.Module1.func3
+  nameWithType: Module1.func3
+- uid: Namespace1.Module1.func4(FSharp.Collections.Map<string,int>)
+  name: 'val func4: Map<string,int> -> float'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func4_FSharp_Collections_Map_string_int__
+  commentId: M:Namespace1.func4(Microsoft.FSharp.Collections.FSharpMap{System.String,System.Int32})
+  fullName: 'val Namespace1.Module1.func4: FSharp.Collections.Map<string,int> -> float'
+  nameWithType: 'val Module1.func4: Map<string,int> -> float'
+- uid: Namespace1.Module1.func4*
+  name: func4
+  href: api/Namespace1.Module1.html#Namespace1_Module1_func4_
+  commentId: Overload:Namespace1.Module1.func4*
+  fullName: Namespace1.Module1.func4
+  nameWithType: Module1.func4
+- uid: Namespace1.Module1.funcAbrev1(int * float)
+  name: 'val funcAbrev1: int * float -> string'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev1_int___float_
+  commentId: M:Namespace1.funcAbrev1(System.Int32,System.Double)
+  fullName: 'val Namespace1.Module1.funcAbrev1: int * float -> string'
+  nameWithType: 'val Module1.funcAbrev1: int * float -> string'
+- uid: Namespace1.Module1.funcAbrev1*
+  name: funcAbrev1
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev1_
+  commentId: Overload:Namespace1.Module1.funcAbrev1*
+  fullName: Namespace1.Module1.funcAbrev1
+  nameWithType: Module1.funcAbrev1
+- uid: Namespace1.Module1.funcAbrev123(Namespace1.Module1.MyAbrev1 * Namespace1.Module1.MyAbrev2 * Namespace1.Module1.MyAbrev3)
+  name: 'val funcAbrev123: MyAbrev1 * MyAbrev2 * MyAbrev3 -> string'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev123_Namespace1_Module1_MyAbrev1___Namespace1_Module1_MyAbrev2___Namespace1_Module1_MyAbrev3_
+  commentId: M:Namespace1.funcAbrev123(System.Tuple{System.Int32,System.Double},System.String,Microsoft.FSharp.Core.FSharpFunc{System.Int32,System.Double})
+  fullName: 'val Namespace1.Module1.funcAbrev123: Namespace1.Module1.MyAbrev1 * Namespace1.Module1.MyAbrev2 * Namespace1.Module1.MyAbrev3 -> string'
+  nameWithType: 'val Module1.funcAbrev123: MyAbrev1 * MyAbrev2 * MyAbrev3 -> string'
+- uid: Namespace1.Module1.funcAbrev123*
+  name: funcAbrev123
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev123_
+  commentId: Overload:Namespace1.Module1.funcAbrev123*
+  fullName: Namespace1.Module1.funcAbrev123
+  nameWithType: Module1.funcAbrev123
+- uid: Namespace1.Module1.funcAbrev2(Namespace1.Module1.MyAbrev2)
+  name: 'val funcAbrev2: MyAbrev2 -> string'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev2_Namespace1_Module1_MyAbrev2_
+  commentId: M:Namespace1.funcAbrev2(System.String)
+  fullName: 'val Namespace1.Module1.funcAbrev2: Namespace1.Module1.MyAbrev2 -> string'
+  nameWithType: 'val Module1.funcAbrev2: MyAbrev2 -> string'
+- uid: Namespace1.Module1.funcAbrev2*
+  name: funcAbrev2
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev2_
+  commentId: Overload:Namespace1.Module1.funcAbrev2*
+  fullName: Namespace1.Module1.funcAbrev2
+  nameWithType: Module1.funcAbrev2
+- uid: Namespace1.Module1.funcAbrev3(Namespace1.Module1.MyAbrev3)
+  name: 'val funcAbrev3: MyAbrev3 -> string'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev3_Namespace1_Module1_MyAbrev3_
+  commentId: M:Namespace1.funcAbrev3(Microsoft.FSharp.Core.FSharpFunc{System.Int32,System.Double})
+  fullName: 'val Namespace1.Module1.funcAbrev3: Namespace1.Module1.MyAbrev3 -> string'
+  nameWithType: 'val Module1.funcAbrev3: MyAbrev3 -> string'
+- uid: Namespace1.Module1.funcAbrev3*
+  name: funcAbrev3
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrev3_
+  commentId: Overload:Namespace1.Module1.funcAbrev3*
+  fullName: Namespace1.Module1.funcAbrev3
+  nameWithType: Module1.funcAbrev3
+- uid: Namespace1.Module1.funcAbrevRet(unit -> int)
+  name: 'val funcAbrevRet: unit -> int -> float'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrevRet_unit____int_
+  commentId: M:Namespace1.funcAbrevRet(Microsoft.FSharp.Core.Unit,System.Int32)
+  fullName: 'val Namespace1.Module1.funcAbrevRet: unit -> int -> float'
+  nameWithType: 'val Module1.funcAbrevRet: unit -> int -> float'
+- uid: Namespace1.Module1.funcAbrevRet*
+  name: funcAbrevRet
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcAbrevRet_
+  commentId: Overload:Namespace1.Module1.funcAbrevRet*
+  fullName: Namespace1.Module1.funcAbrevRet
+  nameWithType: Module1.funcAbrevRet
+- uid: Namespace1.Module1.funcRec1(Namespace1.Module1.MyRec1)
+  name: 'val funcRec1: MyRec1 -> MyRec1'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcRec1_Namespace1_Module1_MyRec1_
+  commentId: M:Namespace1.funcRec1(Namespace1.Module1.MyRec1)
+  fullName: 'val Namespace1.Module1.funcRec1: Namespace1.Module1.MyRec1 -> Namespace1.Module1.MyRec1'
+  nameWithType: 'val Module1.funcRec1: MyRec1 -> MyRec1'
+- uid: Namespace1.Module1.funcRec1*
+  name: funcRec1
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcRec1_
+  commentId: Overload:Namespace1.Module1.funcRec1*
+  fullName: Namespace1.Module1.funcRec1
+  nameWithType: Module1.funcRec1
+- uid: Namespace1.Module1.funcUnion1(Namespace1.Module1.MyUnion1)
+  name: 'val funcUnion1: MyUnion1 -> MyUnion1'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcUnion1_Namespace1_Module1_MyUnion1_
+  commentId: M:Namespace1.funcUnion1(Namespace1.Module1.MyUnion1)
+  fullName: 'val Namespace1.Module1.funcUnion1: Namespace1.Module1.MyUnion1 -> Namespace1.Module1.MyUnion1'
+  nameWithType: 'val Module1.funcUnion1: MyUnion1 -> MyUnion1'
+- uid: Namespace1.Module1.funcUnion1*
+  name: funcUnion1
+  href: api/Namespace1.Module1.html#Namespace1_Module1_funcUnion1_
+  commentId: Overload:Namespace1.Module1.funcUnion1*
+  fullName: Namespace1.Module1.funcUnion1
+  nameWithType: Module1.funcUnion1
+- uid: Namespace1.Module1.inlineFunc2(^?9790 -> int -> ^?9791)
+  name: 'val inlineFunc2: ^a -> int -> ^b -> ^a * ^b'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_inlineFunc2___9790____int______9791_
+  commentId: M:Namespace1.inlineFunc2``2(``0,System.Int32,``1)
+  fullName: 'val Namespace1.Module1.inlineFunc2: ^a -> int -> ^b -> ^a * ^b'
+  nameWithType: 'val Module1.inlineFunc2: ^a -> int -> ^b -> ^a * ^b'
+- uid: Namespace1.Module1.inlineFunc2*
+  name: inlineFunc2
+  href: api/Namespace1.Module1.html#Namespace1_Module1_inlineFunc2_
+  commentId: Overload:Namespace1.Module1.inlineFunc2*
+  fullName: Namespace1.Module1.inlineFunc2
+  nameWithType: Module1.inlineFunc2
+- uid: Namespace1.Module1.MyAbrev1
+  name: Module1.MyAbrev1 (abrv)
+  href: api/Namespace1.Module1.MyAbrev1.html
+  commentId: T:Namespace1.Module1.MyAbrev1
+  fullName: Namespace1.Module1.MyAbrev1
+  nameWithType: Namespace1.Module1.MyAbrev1
+- uid: Namespace1.Module1.MyAbrev2
+  name: Module1.MyAbrev2 (abrv)
+  href: api/Namespace1.Module1.MyAbrev2.html
+  commentId: T:Namespace1.Module1.MyAbrev2
+  fullName: Namespace1.Module1.MyAbrev2
+  nameWithType: Namespace1.Module1.MyAbrev2
+- uid: Namespace1.Module1.MyAbrev3
+  name: Module1.MyAbrev3 (abrv)
+  href: api/Namespace1.Module1.MyAbrev3.html
+  commentId: T:Namespace1.Module1.MyAbrev3
+  fullName: Namespace1.Module1.MyAbrev3
+  nameWithType: Namespace1.Module1.MyAbrev3
+- uid: Namespace1.Module1.MyDelegate
+  name: Module1.MyDelegate (del)
+  href: api/Namespace1.Module1.MyDelegate.html
+  commentId: T:Namespace1.Module1.MyDelegate
+  fullName: Namespace1.Module1.MyDelegate
+  nameWithType: Namespace1.Module1.MyDelegate
+- uid: Namespace1.Module1.MyDelegate.Invoke(int * Namespace1.Module1.MyRec1)
+  name: 'abstract member Invoke: int * MyRec1 -> string -> int'
+  href: api/Namespace1.Module1.MyDelegate.html#Namespace1_Module1_MyDelegate_Invoke_int___Namespace1_Module1_MyRec1_
+  commentId: M:Namespace1.Module1.MyDelegate.Invoke(System.Int32,Namespace1.Module1.MyRec1)
+  fullName: 'abstract member Namespace1.Module1.MyDelegate.Invoke: int * Namespace1.Module1.MyRec1 -> string -> int'
+  nameWithType: 'abstract member MyDelegate.Invoke: int * MyRec1 -> string -> int'
+- uid: Namespace1.Module1.MyDelegate.Invoke*
+  name: Invoke
+  href: api/Namespace1.Module1.MyDelegate.html#Namespace1_Module1_MyDelegate_Invoke_
+  commentId: Overload:Namespace1.Module1.MyDelegate.Invoke*
+  fullName: Namespace1.Module1.MyDelegate.Invoke
+  nameWithType: MyDelegate.Invoke
+- uid: Namespace1.Module1.MyDelegate2
+  name: Module1.MyDelegate2 (del)
+  href: api/Namespace1.Module1.MyDelegate2.html
+  commentId: T:Namespace1.Module1.MyDelegate2
+  fullName: Namespace1.Module1.MyDelegate2
+  nameWithType: Namespace1.Module1.MyDelegate2
+- uid: Namespace1.Module1.MyDelegate2.Invoke(unit)
+  name: 'abstract member Invoke: unit -> string'
+  href: api/Namespace1.Module1.MyDelegate2.html#Namespace1_Module1_MyDelegate2_Invoke_unit_
+  commentId: M:Namespace1.Module1.MyDelegate2.Invoke
+  fullName: 'abstract member Namespace1.Module1.MyDelegate2.Invoke: unit -> string'
+  nameWithType: 'abstract member MyDelegate2.Invoke: unit -> string'
+- uid: Namespace1.Module1.MyDelegate2.Invoke*
+  name: Invoke
+  href: api/Namespace1.Module1.MyDelegate2.html#Namespace1_Module1_MyDelegate2_Invoke_
+  commentId: Overload:Namespace1.Module1.MyDelegate2.Invoke*
+  fullName: Namespace1.Module1.MyDelegate2.Invoke
+  nameWithType: MyDelegate2.Invoke
+- uid: Namespace1.Module1.MyDelegate3
+  name: Module1.MyDelegate3 (del)
+  href: api/Namespace1.Module1.MyDelegate3.html
+  commentId: T:Namespace1.Module1.MyDelegate3
+  fullName: Namespace1.Module1.MyDelegate3
+  nameWithType: Namespace1.Module1.MyDelegate3
+- uid: Namespace1.Module1.MyDelegate3.Invoke(unit)
+  name: 'abstract member Invoke: unit -> unit'
+  href: api/Namespace1.Module1.MyDelegate3.html#Namespace1_Module1_MyDelegate3_Invoke_unit_
+  commentId: M:Namespace1.Module1.MyDelegate3.Invoke
+  fullName: 'abstract member Namespace1.Module1.MyDelegate3.Invoke: unit -> unit'
+  nameWithType: 'abstract member MyDelegate3.Invoke: unit -> unit'
+- uid: Namespace1.Module1.MyDelegate3.Invoke*
+  name: Invoke
+  href: api/Namespace1.Module1.MyDelegate3.html#Namespace1_Module1_MyDelegate3_Invoke_
+  commentId: Overload:Namespace1.Module1.MyDelegate3.Invoke*
+  fullName: Namespace1.Module1.MyDelegate3.Invoke
+  nameWithType: MyDelegate3.Invoke
+- uid: Namespace1.Module1.MyException
+  name: Module1.MyException (excp)
+  href: api/Namespace1.Module1.MyException.html
+  commentId: T:Namespace1.Module1.MyException
+  fullName: Namespace1.Module1.MyException
+  nameWithType: Namespace1.Module1.MyException
+- uid: Namespace1.Module1.myFuncRetDel(Namespace1.Module1.MyDelegate2)
+  name: 'val myFuncRetDel: MyDelegate2 -> MyDelegate'
+  href: api/Namespace1.Module1.html#Namespace1_Module1_myFuncRetDel_Namespace1_Module1_MyDelegate2_
+  commentId: M:Namespace1.myFuncRetDel(Namespace1.Module1.MyDelegate2)
+  fullName: 'val Namespace1.Module1.myFuncRetDel: Namespace1.Module1.MyDelegate2 -> Namespace1.Module1.MyDelegate'
+  nameWithType: 'val Module1.myFuncRetDel: MyDelegate2 -> MyDelegate'
+- uid: Namespace1.Module1.myFuncRetDel*
+  name: myFuncRetDel
+  href: api/Namespace1.Module1.html#Namespace1_Module1_myFuncRetDel_
+  commentId: Overload:Namespace1.Module1.myFuncRetDel*
+  fullName: Namespace1.Module1.myFuncRetDel
+  nameWithType: Module1.myFuncRetDel
+- uid: Namespace1.Module1.MyOtherException
+  name: Module1.MyOtherException (excp)
+  href: api/Namespace1.Module1.MyOtherException.html
+  commentId: T:Namespace1.Module1.MyOtherException
+  fullName: Namespace1.Module1.MyOtherException
+  nameWithType: Namespace1.Module1.MyOtherException
+- uid: Namespace1.Module1.MyOtherException.Hallo(unit)
+  name: 'member Hallo: unit -> int'
+  href: api/Namespace1.Module1.MyOtherException.html#Namespace1_Module1_MyOtherException_Hallo_unit_
+  commentId: M:Namespace1.Module1.MyOtherException.Hallo
+  fullName: 'member Namespace1.Module1.MyOtherException.Hallo: unit -> int'
+  nameWithType: 'member MyOtherException.Hallo: unit -> int'
+- uid: Namespace1.Module1.MyOtherException.Hallo*
+  name: Hallo
+  href: api/Namespace1.Module1.MyOtherException.html#Namespace1_Module1_MyOtherException_Hallo_
+  commentId: Overload:Namespace1.Module1.MyOtherException.Hallo*
+  fullName: Namespace1.Module1.MyOtherException.Hallo
+  nameWithType: MyOtherException.Hallo
+- uid: Namespace1.Module1.MyOtherException.name
+  name: 'val name: string'
+  href: api/Namespace1.Module1.MyOtherException.html#Namespace1_Module1_MyOtherException_name
+  commentId: P:Namespace1.Module1.MyOtherException.name
+  fullName: 'val Namespace1.Module1.MyOtherException.name: string'
+  nameWithType: 'val MyOtherException.name: string'
+- uid: Namespace1.Module1.MyOtherException.size
+  name: 'val size: int'
+  href: api/Namespace1.Module1.MyOtherException.html#Namespace1_Module1_MyOtherException_size
+  commentId: P:Namespace1.Module1.MyOtherException.size
+  fullName: 'val Namespace1.Module1.MyOtherException.size: int'
+  nameWithType: 'val MyOtherException.size: int'
+- uid: Namespace1.Module1.MyRec1
+  name: Module1.MyRec1 (rec)
+  href: api/Namespace1.Module1.MyRec1.html
+  commentId: T:Namespace1.Module1.MyRec1
+  fullName: Namespace1.Module1.MyRec1
+  nameWithType: Namespace1.Module1.MyRec1
+- uid: Namespace1.Module1.MyRec1.field1
+  name: 'val field1: string'
+  href: api/Namespace1.Module1.MyRec1.html#Namespace1_Module1_MyRec1_field1
+  commentId: P:Namespace1.Module1.MyRec1.field1
+  fullName: 'val Namespace1.Module1.MyRec1.field1: string'
+  nameWithType: 'val MyRec1.field1: string'
+- uid: Namespace1.Module1.MyRec1.field2
+  name: 'val field2: int'
+  href: api/Namespace1.Module1.MyRec1.html#Namespace1_Module1_MyRec1_field2
+  commentId: P:Namespace1.Module1.MyRec1.field2
+  fullName: 'val Namespace1.Module1.MyRec1.field2: int'
+  nameWithType: 'val MyRec1.field2: int'
+- uid: Namespace1.Module1.MyUnion1
+  name: Module1.MyUnion1 (union)
+  href: api/Namespace1.Module1.MyUnion1.html
+  commentId: T:Namespace1.Module1.MyUnion1
+  fullName: Namespace1.Module1.MyUnion1
+  nameWithType: Namespace1.Module1.MyUnion1
+- uid: Namespace1.Module1.MyUnion1.UnionCase1
+  name: UnionCase1
+  href: api/Namespace1.Module1.MyUnion1.html#Namespace1_Module1_MyUnion1_UnionCase1
+  commentId: T:Namespace1.Module1.MyUnion1.UnionCase1
+  fullName: Namespace1.Module1.MyUnion1.UnionCase1
+  nameWithType: MyUnion1.UnionCase1
+- uid: Namespace1.Module1.MyUnion1.UnionCase2
+  name: UnionCase2 of MyRec1
+  href: api/Namespace1.Module1.MyUnion1.html#Namespace1_Module1_MyUnion1_UnionCase2
+  commentId: T:Namespace1.Module1.MyUnion1.UnionCase2
+  fullName: Namespace1.Module1.MyUnion1.UnionCase2 of Namespace1.Module1.MyRec1
+  nameWithType: MyUnion1.UnionCase2 of MyRec1
+- uid: Namespace1.Module2
+  name: Module2 (mod)
+  href: api/Namespace1.Module2.html
+  commentId: T:Namespace1.Module2
+  fullName: Namespace1.Module2
+  nameWithType: Namespace1.Module2
+- uid: Namespace1.Module2.cm
+  name: Module2.cm (meas)
+  href: api/Namespace1.Module2.cm.html
+  commentId: T:Namespace1.Module2.cm
+  fullName: Namespace1.Module2.cm
+  nameWithType: Namespace1.Module2.cm
+- uid: Namespace1.Module2.squareArea(float<Namespace1.Module2.cm>)
+  name: 'val squareArea: float<cm> -> float<MeasureProduct<cm,type Namespace1.Module2.cm>>'
+  href: api/Namespace1.Module2.html#Namespace1_Module2_squareArea_float_Namespace1_Module2_cm__
+  commentId: M:Namespace1.squareArea(System.Double)
+  fullName: 'val Namespace1.Module2.squareArea: float<Namespace1.Module2.cm> -> float<MeasureProduct<Namespace1.Module2.cm,type Namespace1.Module2.cm>>'
+  nameWithType: 'val Module2.squareArea: float<cm> -> float<MeasureProduct<cm,type Namespace1.Module2.cm>>'
+- uid: Namespace1.Module2.squareArea*
+  name: squareArea
+  href: api/Namespace1.Module2.html#Namespace1_Module2_squareArea_
+  commentId: Overload:Namespace1.Module2.squareArea*
+  fullName: Namespace1.Module2.squareArea
+  nameWithType: Module2.squareArea
+- uid: Namespace1.Module3
+  name: Module3 (mod)
+  href: api/Namespace1.Module3.html
+  commentId: T:Namespace1.Module3
+  fullName: Namespace1.Module3
+  nameWithType: Namespace1.Module3
+- uid: Namespace1.Module3.GenericRecordType`1
+  name: Module3.GenericRecordType<'T> (rec)
+  href: api/Namespace1.Module3.GenericRecordType-1.html
+  commentId: T:Namespace1.Module3.GenericRecordType`1
+  fullName: Namespace1.Module3.GenericRecordType`1
+  nameWithType: Namespace1.Module3.GenericRecordType`1
+- uid: Namespace1.Module3.GenericRecordType`1.Field1
+  name: 'val Field1: string'
+  href: api/Namespace1.Module3.GenericRecordType-1.html#Namespace1_Module3_GenericRecordType_1_Field1
+  commentId: P:Namespace1.Module3.GenericRecordType`1.Field1
+  fullName: 'val Namespace1.Module3.GenericRecordType<_>.Field1: string'
+  nameWithType: 'val GenericRecordType.Field1: string'
+- uid: Namespace1.Module3.GenericRecordType`1.Field2
+  name: "val Field2: 'T option"
+  href: api/Namespace1.Module3.GenericRecordType-1.html#Namespace1_Module3_GenericRecordType_1_Field2
+  commentId: P:Namespace1.Module3.GenericRecordType`1.Field2
+  fullName: "val Namespace1.Module3.GenericRecordType<_>.Field2: 'T option"
+  nameWithType: "val GenericRecordType.Field2: 'T option"
+- uid: Namespace1.Module3.makeIntInst(unit)
+  name: 'val makeIntInst: unit -> GenericRecordType<int>'
+  href: api/Namespace1.Module3.html#Namespace1_Module3_makeIntInst_unit_
+  commentId: M:Namespace1.makeIntInst
+  fullName: 'val Namespace1.Module3.makeIntInst: unit -> Namespace1.Module3.GenericRecordType<int>'
+  nameWithType: 'val Module3.makeIntInst: unit -> GenericRecordType<int>'
+- uid: Namespace1.Module3.makeIntInst*
+  name: makeIntInst
+  href: api/Namespace1.Module3.html#Namespace1_Module3_makeIntInst_
+  commentId: Overload:Namespace1.Module3.makeIntInst*
+  fullName: Namespace1.Module3.makeIntInst
+  nameWithType: Module3.makeIntInst
+- uid: Namespace1.Module3.optionalReturn(unit)
+  name: 'val optionalReturn: unit -> RecordType option'
+  href: api/Namespace1.Module3.html#Namespace1_Module3_optionalReturn_unit_
+  commentId: M:Namespace1.optionalReturn
+  fullName: 'val Namespace1.Module3.optionalReturn: unit -> Namespace1.Module3.RecordType option'
+  nameWithType: 'val Module3.optionalReturn: unit -> RecordType option'
+- uid: Namespace1.Module3.optionalReturn*
+  name: optionalReturn
+  href: api/Namespace1.Module3.html#Namespace1_Module3_optionalReturn_
+  commentId: Overload:Namespace1.Module3.optionalReturn*
+  fullName: Namespace1.Module3.optionalReturn
+  nameWithType: Module3.optionalReturn
+- uid: Namespace1.Module3.RecordType
+  name: Module3.RecordType (rec)
+  href: api/Namespace1.Module3.RecordType.html
+  commentId: T:Namespace1.Module3.RecordType
+  fullName: Namespace1.Module3.RecordType
+  nameWithType: Namespace1.Module3.RecordType
+- uid: Namespace1.Module3.RecordType.Field1
+  name: 'val Field1: string'
+  href: api/Namespace1.Module3.RecordType.html#Namespace1_Module3_RecordType_Field1
+  commentId: P:Namespace1.Module3.RecordType.Field1
+  fullName: 'val Namespace1.Module3.RecordType.Field1: string'
+  nameWithType: 'val RecordType.Field1: string'
+- uid: Namespace1.Module3.RecordType.Field2
+  name: 'val Field2: double'
+  href: api/Namespace1.Module3.RecordType.html#Namespace1_Module3_RecordType_Field2
+  commentId: P:Namespace1.Module3.RecordType.Field2
+  fullName: 'val Namespace1.Module3.RecordType.Field2: double'
+  nameWithType: 'val RecordType.Field2: double'
+- uid: Namespace1.Module3.UnionType
+  name: Module3.UnionType (union)
+  href: api/Namespace1.Module3.UnionType.html
+  commentId: T:Namespace1.Module3.UnionType
+  fullName: Namespace1.Module3.UnionType
+  nameWithType: Namespace1.Module3.UnionType
+- uid: Namespace1.Module3.UnionType.UnionChoice1
+  name: UnionChoice1
+  href: api/Namespace1.Module3.UnionType.html#Namespace1_Module3_UnionType_UnionChoice1
+  commentId: T:Namespace1.Module3.UnionType.UnionChoice1
+  fullName: Namespace1.Module3.UnionType.UnionChoice1
+  nameWithType: UnionType.UnionChoice1
+- uid: Namespace1.Module3.UnionType.UnionChoice2
+  name: UnionChoice2 of int
+  href: api/Namespace1.Module3.UnionType.html#Namespace1_Module3_UnionType_UnionChoice2
+  commentId: T:Namespace1.Module3.UnionType.UnionChoice2
+  fullName: Namespace1.Module3.UnionType.UnionChoice2 of int
+  nameWithType: UnionType.UnionChoice2 of int
+- uid: Namespace1.Module3.UnionType.UnionChoice3
+  name: 'UnionChoice3 of name: string * size: int'
+  href: api/Namespace1.Module3.UnionType.html#Namespace1_Module3_UnionType_UnionChoice3
+  commentId: T:Namespace1.Module3.UnionType.UnionChoice3
+  fullName: 'Namespace1.Module3.UnionType.UnionChoice3 of name: string * size: int'
+  nameWithType: 'UnionType.UnionChoice3 of name: string * size: int'
+- uid: Namespace1.Module4
+  name: Module4 (mod)
+  href: api/Namespace1.Module4.html
+  commentId: T:Namespace1.Module4
+  fullName: Namespace1.Module4
+  nameWithType: Namespace1.Module4
+- uid: Namespace1.Module4.( |Even|Odd| )(int)
+  name: 'val ( |Even|Odd| ): int -> Choice<unit,unit>'
+  href: api/Namespace1.Module4.html#Namespace1_Module4____Even_Odd____int_
+  commentId: M:Namespace1.|Even|Odd|(System.Int32)
+  fullName: 'val Namespace1.Module4.( |Even|Odd| ): int -> Choice<unit,unit>'
+  nameWithType: 'val Module4.( |Even|Odd| ): int -> Choice<unit,unit>'
+- uid: Namespace1.Module4.( |Even|Odd| )*
+  name: ( |Even|Odd| )
+  href: api/Namespace1.Module4.html#Namespace1_Module4____Even_Odd____
+  commentId: Overload:Namespace1.Module4.( |Even|Odd| )*
+  fullName: Namespace1.Module4.( |Even|Odd| )
+  nameWithType: Module4.( |Even|Odd| )
+- uid: Namespace1.Module4.( |Prime|_| )(int)
+  name: 'val ( |Prime|_| ): int -> unit option'
+  href: api/Namespace1.Module4.html#Namespace1_Module4____Prime______int_
+  commentId: M:Namespace1.|Prime|_|(System.Int32)
+  fullName: 'val Namespace1.Module4.( |Prime|_| ): int -> unit option'
+  nameWithType: 'val Module4.( |Prime|_| ): int -> unit option'
+- uid: Namespace1.Module4.( |Prime|_| )*
+  name: ( |Prime|_| )
+  href: api/Namespace1.Module4.html#Namespace1_Module4____Prime______
+  commentId: Overload:Namespace1.Module4.( |Prime|_| )*
+  fullName: Namespace1.Module4.( |Prime|_| )
+  nameWithType: Module4.( |Prime|_| )
+- uid: Namespace1.Module4.( |Tenths| )(int)
+  name: 'val ( |Tenths| ): int -> int * int'
+  href: api/Namespace1.Module4.html#Namespace1_Module4____Tenths____int_
+  commentId: M:Namespace1.|Tenths|(System.Int32)
+  fullName: 'val Namespace1.Module4.( |Tenths| ): int -> int * int'
+  nameWithType: 'val Module4.( |Tenths| ): int -> int * int'
+- uid: Namespace1.Module4.( |Tenths| )*
+  name: ( |Tenths| )
+  href: api/Namespace1.Module4.html#Namespace1_Module4____Tenths____
+  commentId: Overload:Namespace1.Module4.( |Tenths| )*
+  fullName: Namespace1.Module4.( |Tenths| )
+  nameWithType: Module4.( |Tenths| )
+- uid: Namespace1.Module5
+  name: Module5 (mod)
+  href: api/Namespace1.Module5.html
+  commentId: T:Namespace1.Module5
+  fullName: Namespace1.Module5
+  nameWithType: Namespace1.Module5
+- uid: Namespace1.Module5.AbstractBaseType
+  name: Module5.AbstractBaseType
+  href: api/Namespace1.Module5.AbstractBaseType.html
+  commentId: T:Namespace1.Module5.AbstractBaseType
+  fullName: Namespace1.Module5.AbstractBaseType
+  nameWithType: Namespace1.Module5.AbstractBaseType
+- uid: Namespace1.Module5.AbstractBaseType.#ctor(unit)
+  name: 'new: unit -> AbstractBaseType'
+  href: api/Namespace1.Module5.AbstractBaseType.html#Namespace1_Module5_AbstractBaseType__ctor_unit_
+  commentId: M:Namespace1.Module5.AbstractBaseType.#ctor
+  fullName: 'new: unit -> Namespace1.Module5.AbstractBaseType'
+  nameWithType: 'new: unit -> AbstractBaseType'
+- uid: Namespace1.Module5.AbstractBaseType.#ctor*
+  name: ( .ctor )
+  href: api/Namespace1.Module5.AbstractBaseType.html#Namespace1_Module5_AbstractBaseType__ctor_
+  commentId: Overload:Namespace1.Module5.AbstractBaseType.#ctor*
+  fullName: Namespace1.Module5.AbstractBaseType
+  nameWithType: AbstractBaseType.( .ctor )
+- uid: Namespace1.Module5.AbstractBaseType.AbstractPropery(unit)
+  name: 'abstract property AbstractPropery: int'
+  href: api/Namespace1.Module5.AbstractBaseType.html#Namespace1_Module5_AbstractBaseType_AbstractPropery_unit_
+  commentId: P:Namespace1.Module5.AbstractBaseType.AbstractPropery
+  fullName: 'abstract property Namespace1.Module5.AbstractBaseType.AbstractPropery: int'
+  nameWithType: 'abstract property AbstractBaseType.AbstractPropery: int'
+- uid: Namespace1.Module5.ImplClass
+  name: Module5.ImplClass
+  href: api/Namespace1.Module5.ImplClass.html
+  commentId: T:Namespace1.Module5.ImplClass
+  fullName: Namespace1.Module5.ImplClass
+  nameWithType: Namespace1.Module5.ImplClass
+- uid: Namespace1.Module5.ImplClass.#ctor(unit)
+  name: 'new: unit -> ImplClass'
+  href: api/Namespace1.Module5.ImplClass.html#Namespace1_Module5_ImplClass__ctor_unit_
+  commentId: M:Namespace1.Module5.ImplClass.#ctor
+  fullName: 'new: unit -> Namespace1.Module5.ImplClass'
+  nameWithType: 'new: unit -> ImplClass'
+- uid: Namespace1.Module5.ImplClass.#ctor*
+  name: ( .ctor )
+  href: api/Namespace1.Module5.ImplClass.html#Namespace1_Module5_ImplClass__ctor_
+  commentId: Overload:Namespace1.Module5.ImplClass.#ctor*
+  fullName: Namespace1.Module5.ImplClass
+  nameWithType: ImplClass.( .ctor )
+- uid: Namespace1.Module5.ImplClass.Event1(unit)
+  name: 'event Event1: ImplClass * int'
+  href: api/Namespace1.Module5.ImplClass.html#Namespace1_Module5_ImplClass_Event1_unit_
+  commentId: P:Namespace1.Module5.ImplClass.Event1
+  fullName: 'event Namespace1.Module5.ImplClass.Event1: Namespace1.Module5.ImplClass * int'
+  nameWithType: 'event ImplClass.Event1: ImplClass * int'
+- uid: Namespace1.Module5.ImplClass.Namespace1.Module5.AbstractBaseType.AbstractPropery(unit)
+  name: 'override property AbstractPropery: int'
+  href: api/Namespace1.Module5.ImplClass.html#Namespace1_Module5_ImplClass_Namespace1_Module5_AbstractBaseType_AbstractPropery_unit_
+  commentId: P:Namespace1.Module5.ImplClass.AbstractPropery
+  fullName: 'override property Namespace1.Module5.ImplClass.AbstractPropery: int'
+  nameWithType: 'override property ImplClass.AbstractPropery: int'
+- uid: Namespace1.Module5.ImplClass.TestEvent(int)
+  name: 'member TestEvent: int -> unit'
+  href: api/Namespace1.Module5.ImplClass.html#Namespace1_Module5_ImplClass_TestEvent_int_
+  commentId: M:Namespace1.Module5.ImplClass.TestEvent(System.Int32)
+  fullName: 'member Namespace1.Module5.ImplClass.TestEvent: int -> unit'
+  nameWithType: 'member ImplClass.TestEvent: int -> unit'
+- uid: Namespace1.Module5.ImplClass.TestEvent*
+  name: TestEvent
+  href: api/Namespace1.Module5.ImplClass.html#Namespace1_Module5_ImplClass_TestEvent_
+  commentId: Overload:Namespace1.Module5.ImplClass.TestEvent*
+  fullName: Namespace1.Module5.ImplClass.TestEvent
+  nameWithType: ImplClass.TestEvent
+- uid: Namespace1.Module5.IMyInterface
+  name: Module5.IMyInterface
+  href: api/Namespace1.Module5.IMyInterface.html
+  commentId: T:Namespace1.Module5.IMyInterface
+  fullName: Namespace1.Module5.IMyInterface
+  nameWithType: Namespace1.Module5.IMyInterface
+- uid: Namespace1.Module5.IMyInterface.InterfaceMethod(string)
+  name: 'abstract member InterfaceMethod: string -> int'
+  href: api/Namespace1.Module5.IMyInterface.html#Namespace1_Module5_IMyInterface_InterfaceMethod_string_
+  commentId: M:Namespace1.Module5.IMyInterface.InterfaceMethod(System.String)
+  fullName: 'abstract member Namespace1.Module5.IMyInterface.InterfaceMethod: string -> int'
+  nameWithType: 'abstract member IMyInterface.InterfaceMethod: string -> int'
+- uid: Namespace1.Module5.IMyInterface.InterfaceMethod*
+  name: InterfaceMethod
+  href: api/Namespace1.Module5.IMyInterface.html#Namespace1_Module5_IMyInterface_InterfaceMethod_
+  commentId: Overload:Namespace1.Module5.IMyInterface.InterfaceMethod*
+  fullName: Namespace1.Module5.IMyInterface.InterfaceMethod
+  nameWithType: IMyInterface.InterfaceMethod
+- uid: Namespace1.Module5.makeType1(unit)
+  name: 'val makeType1: unit -> Type1'
+  href: api/Namespace1.Module5.html#Namespace1_Module5_makeType1_unit_
+  commentId: M:Namespace1.makeType1
+  fullName: 'val Namespace1.Module5.makeType1: unit -> Namespace1.Module5.Type1'
+  nameWithType: 'val Module5.makeType1: unit -> Type1'
+- uid: Namespace1.Module5.makeType1*
+  name: makeType1
+  href: api/Namespace1.Module5.html#Namespace1_Module5_makeType1_
+  commentId: Overload:Namespace1.Module5.makeType1*
+  fullName: Namespace1.Module5.makeType1
+  nameWithType: Module5.makeType1
+- uid: Namespace1.Module5.myInst()
+  name: val myInst
+  href: api/Namespace1.Module5.html#Namespace1_Module5_myInst__
+  commentId: P:Namespace1.myInst
+  fullName: 'val Namespace1.Module5.myInst: Namespace1.Module5.ImplClass'
+  nameWithType: 'val Module5.myInst: ImplClass'
+- uid: Namespace1.Module5.Type1
+  name: Module5.Type1
+  href: api/Namespace1.Module5.Type1.html
+  commentId: T:Namespace1.Module5.Type1
+  fullName: Namespace1.Module5.Type1
+  nameWithType: Namespace1.Module5.Type1
+- uid: Namespace1.Module5.Type1.#ctor(float)
+  name: 'new: float -> Type1'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1__ctor_float_
+  commentId: M:Namespace1.Module5.Type1.#ctor(System.Double)
+  fullName: 'new: float -> Namespace1.Module5.Type1'
+  nameWithType: 'new: float -> Type1'
+- uid: Namespace1.Module5.Type1.#ctor(int * string)
+  name: 'new: int * string -> Type1'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1__ctor_int___string_
+  commentId: M:Namespace1.Module5.Type1.#ctor(System.Int32,System.String)
+  fullName: 'new: int * string -> Namespace1.Module5.Type1'
+  nameWithType: 'new: int * string -> Type1'
+- uid: Namespace1.Module5.Type1.#ctor*
+  name: ( .ctor )
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1__ctor_
+  commentId: Overload:Namespace1.Module5.Type1.#ctor*
+  fullName: Namespace1.Module5.Type1
+  nameWithType: Type1.( .ctor )
+- uid: Namespace1.Module5.Type1.Arg1(unit)
+  name: 'property Arg1: int'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_Arg1_unit_
+  commentId: P:Namespace1.Module5.Type1.Arg1
+  fullName: 'property Namespace1.Module5.Type1.Arg1: int'
+  nameWithType: 'property Type1.Arg1: int'
+- uid: Namespace1.Module5.Type1.Arg2(unit)
+  name: 'property Arg2: string'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_Arg2_unit_
+  commentId: P:Namespace1.Module5.Type1.Arg2
+  fullName: 'property Namespace1.Module5.Type1.Arg2: string'
+  nameWithType: 'property Type1.Arg2: string'
+- uid: Namespace1.Module5.Type1.CurriedMethod(float -> string)
+  name: 'member CurriedMethod: float -> string -> string'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_CurriedMethod_float____string_
+  commentId: M:Namespace1.Module5.Type1.CurriedMethod(System.Double,System.String)
+  fullName: 'member Namespace1.Module5.Type1.CurriedMethod: float -> string -> string'
+  nameWithType: 'member Type1.CurriedMethod: float -> string -> string'
+- uid: Namespace1.Module5.Type1.CurriedMethod*
+  name: CurriedMethod
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_CurriedMethod_
+  commentId: Overload:Namespace1.Module5.Type1.CurriedMethod*
+  fullName: Namespace1.Module5.Type1.CurriedMethod
+  nameWithType: Type1.CurriedMethod
+- uid: Namespace1.Module5.Type1.GenericMethod('?9806 option * int)
+  name: "member GenericMethod: 'a option * int -> int"
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_GenericMethod___9806_option___int_
+  commentId: M:Namespace1.Module5.Type1.GenericMethod``1(Microsoft.FSharp.Core.FSharpOption{``0},System.Int32)
+  fullName: "member Namespace1.Module5.Type1.GenericMethod: 'a option * int -> int"
+  nameWithType: "member Type1.GenericMethod: 'a option * int -> int"
+- uid: Namespace1.Module5.Type1.GenericMethod*
+  name: GenericMethod
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_GenericMethod_
+  commentId: Overload:Namespace1.Module5.Type1.GenericMethod*
+  fullName: Namespace1.Module5.Type1.GenericMethod
+  nameWithType: Type1.GenericMethod
+- uid: Namespace1.Module5.Type1.Namespace1.Module5.Type1.VirtualMethod(int)
+  name: 'default member VirtualMethod: int -> int'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_Namespace1_Module5_Type1_VirtualMethod_int_
+  commentId: M:Namespace1.Module5.Type1.VirtualMethod(System.Int32)
+  fullName: 'default member Namespace1.Module5.Type1.VirtualMethod: int -> int'
+  nameWithType: 'default member Type1.VirtualMethod: int -> int'
+- uid: Namespace1.Module5.Type1.Namespace1.Module5.Type1.VirtualMethod*
+  name: VirtualMethod
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_Namespace1_Module5_Type1_VirtualMethod_
+  commentId: Overload:Namespace1.Module5.Type1.Namespace1.Module5.Type1.VirtualMethod*
+  fullName: Namespace1.Module5.Type1.VirtualMethod
+  nameWithType: Type1.VirtualMethod
+- uid: Namespace1.Module5.Type1.StaticMethod(int * byte)
+  name: 'static member StaticMethod: int * byte -> int'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_StaticMethod_int___byte_
+  commentId: M:Namespace1.Module5.Type1.StaticMethod(System.Int32,System.Byte)
+  fullName: 'static member Namespace1.Module5.Type1.StaticMethod: int * byte -> int'
+  nameWithType: 'static member Type1.StaticMethod: int * byte -> int'
+- uid: Namespace1.Module5.Type1.StaticMethod*
+  name: StaticMethod
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_StaticMethod_
+  commentId: Overload:Namespace1.Module5.Type1.StaticMethod*
+  fullName: Namespace1.Module5.Type1.StaticMethod
+  nameWithType: Type1.StaticMethod
+- uid: Namespace1.Module5.Type1.System.ICloneable.Clone(unit)
+  name: 'interface ICloneable with member Clone: unit -> obj'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_System_ICloneable_Clone_unit_
+  commentId: M:Namespace1.Module5.Type1.System-ICloneable-Clone
+  fullName: 'interface System.ICloneable with member Namespace1.Module5.Type1.Clone: unit -> obj'
+  nameWithType: 'interface ICloneable with member Type1.Clone: unit -> obj'
+- uid: Namespace1.Module5.Type1.System.ICloneable.Clone*
+  name: Clone
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_System_ICloneable_Clone_
+  commentId: Overload:Namespace1.Module5.Type1.System.ICloneable.Clone*
+  fullName: Namespace1.Module5.Type1.Clone
+  nameWithType: Type1.Clone
+- uid: Namespace1.Module5.Type1.TupledMethod(string * float)
+  name: 'member TupledMethod: string * float -> string'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_TupledMethod_string___float_
+  commentId: M:Namespace1.Module5.Type1.TupledMethod(System.String,System.Double)
+  fullName: 'member Namespace1.Module5.Type1.TupledMethod: string * float -> string'
+  nameWithType: 'member Type1.TupledMethod: string * float -> string'
+- uid: Namespace1.Module5.Type1.TupledMethod(string * int)
+  name: 'member TupledMethod: string * int -> string'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_TupledMethod_string___int_
+  commentId: M:Namespace1.Module5.Type1.TupledMethod(System.String,System.Int32)
+  fullName: 'member Namespace1.Module5.Type1.TupledMethod: string * int -> string'
+  nameWithType: 'member Type1.TupledMethod: string * int -> string'
+- uid: Namespace1.Module5.Type1.TupledMethod*
+  name: TupledMethod
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_TupledMethod_
+  commentId: Overload:Namespace1.Module5.Type1.TupledMethod*
+  fullName: Namespace1.Module5.Type1.TupledMethod
+  nameWithType: Type1.TupledMethod
+- uid: Namespace1.Module5.Type1.ValProperty1(unit)
+  name: 'property ValProperty1: int'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_ValProperty1_unit_
+  commentId: P:Namespace1.Module5.Type1.ValProperty1
+  fullName: 'property Namespace1.Module5.Type1.ValProperty1: int'
+  nameWithType: 'property Type1.ValProperty1: int'
+- uid: Namespace1.Module5.Type1.VirtualMethod(int)
+  name: 'abstract member VirtualMethod: int -> int'
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_VirtualMethod_int_
+  commentId: M:Namespace1.Module5.Type1.VirtualMethod(System.Int32)
+  fullName: 'abstract member Namespace1.Module5.Type1.VirtualMethod: int -> int'
+  nameWithType: 'abstract member Type1.VirtualMethod: int -> int'
+- uid: Namespace1.Module5.Type1.VirtualMethod*
+  name: VirtualMethod
+  href: api/Namespace1.Module5.Type1.html#Namespace1_Module5_Type1_VirtualMethod_
+  commentId: Overload:Namespace1.Module5.Type1.VirtualMethod*
+  fullName: Namespace1.Module5.Type1.VirtualMethod
+  nameWithType: Type1.VirtualMethod
+- uid: Namespace1.Module5.Type2
+  name: Module5.Type2
+  href: api/Namespace1.Module5.Type2.html
+  commentId: T:Namespace1.Module5.Type2
+  fullName: Namespace1.Module5.Type2
+  nameWithType: Namespace1.Module5.Type2
+- uid: Namespace1.Module5.Type2.#ctor(unit)
+  name: 'new: unit -> Type2'
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2__ctor_unit_
+  commentId: M:Namespace1.Module5.Type2.#ctor
+  fullName: 'new: unit -> Namespace1.Module5.Type2'
+  nameWithType: 'new: unit -> Type2'
+- uid: Namespace1.Module5.Type2.#ctor*
+  name: ( .ctor )
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2__ctor_
+  commentId: Overload:Namespace1.Module5.Type2.#ctor*
+  fullName: Namespace1.Module5.Type2
+  nameWithType: Type2.( .ctor )
+- uid: Namespace1.Module5.Type2.Namespace1.Module5.IMyInterface.InterfaceMethod(string)
+  name: 'interface IMyInterface with member InterfaceMethod: string -> int'
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2_Namespace1_Module5_IMyInterface_InterfaceMethod_string_
+  commentId: M:Namespace1.Module5.Type2.Namespace1-Module5-IMyInterface-InterfaceMethod(System.String)
+  fullName: 'interface Namespace1.Module5.IMyInterface with member Namespace1.Module5.Type2.InterfaceMethod: string -> int'
+  nameWithType: 'interface IMyInterface with member Type2.InterfaceMethod: string -> int'
+- uid: Namespace1.Module5.Type2.Namespace1.Module5.IMyInterface.InterfaceMethod*
+  name: InterfaceMethod
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2_Namespace1_Module5_IMyInterface_InterfaceMethod_
+  commentId: Overload:Namespace1.Module5.Type2.Namespace1.Module5.IMyInterface.InterfaceMethod*
+  fullName: Namespace1.Module5.Type2.InterfaceMethod
+  nameWithType: Type2.InterfaceMethod
+- uid: Namespace1.Module5.Type2.Namespace1.Module5.Type1.VirtualMethod(int)
+  name: 'override member VirtualMethod: int -> int'
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2_Namespace1_Module5_Type1_VirtualMethod_int_
+  commentId: M:Namespace1.Module5.Type2.VirtualMethod(System.Int32)
+  fullName: 'override member Namespace1.Module5.Type2.VirtualMethod: int -> int'
+  nameWithType: 'override member Type2.VirtualMethod: int -> int'
+- uid: Namespace1.Module5.Type2.Namespace1.Module5.Type1.VirtualMethod*
+  name: VirtualMethod
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2_Namespace1_Module5_Type1_VirtualMethod_
+  commentId: Overload:Namespace1.Module5.Type2.Namespace1.Module5.Type1.VirtualMethod*
+  fullName: Namespace1.Module5.Type2.VirtualMethod
+  nameWithType: Type2.VirtualMethod
+- uid: Namespace1.Module5.Type2.NewMethod(unit)
+  name: 'member NewMethod: unit -> string'
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2_NewMethod_unit_
+  commentId: M:Namespace1.Module5.Type2.NewMethod
+  fullName: 'member Namespace1.Module5.Type2.NewMethod: unit -> string'
+  nameWithType: 'member Type2.NewMethod: unit -> string'
+- uid: Namespace1.Module5.Type2.NewMethod*
+  name: NewMethod
+  href: api/Namespace1.Module5.Type2.html#Namespace1_Module5_Type2_NewMethod_
+  commentId: Overload:Namespace1.Module5.Type2.NewMethod*
+  fullName: Namespace1.Module5.Type2.NewMethod
+  nameWithType: Type2.NewMethod

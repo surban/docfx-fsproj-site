@@ -1,0 +1,429 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/surba/dev/fsproj/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.BException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.BException.html",
+          "hash": "VzMD8OajeldVwhJtLgs7nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyAbrev1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyAbrev1.html",
+          "hash": "+rwnxhONVneQ8uLrfxJVpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyAbrev2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyAbrev2.html",
+          "hash": "dVVcFraGNUZS4/n6q9Z21A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyAbrev3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyAbrev3.html",
+          "hash": "QzzOsWt1wUcykyj30cZtWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyDelegate.html",
+          "hash": "hR8VlADEube/NKFqBvJ1tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyDelegate2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyDelegate2.html",
+          "hash": "3M4Ers7eKRqLrM9cshAfwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyDelegate3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyDelegate3.html",
+          "hash": "J4hfhEVjQNIx+Tbapt3eIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyException.html",
+          "hash": "hdjuoXja50OwOFS9K+k6Bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyOtherException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyOtherException.html",
+          "hash": "3ZdtfEjgKT9dZ1xqMDNnVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyRec1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyRec1.html",
+          "hash": "FCj368/VIQerLC5g0iAEKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.MyUnion1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.MyUnion1.html",
+          "hash": "f07/ly9M4jNQyleWFBa6bA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module1.html",
+          "hash": "/MYW9Tg3Z1QSjwfUnJHGtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module2.cm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module2.cm.html",
+          "hash": "+yXGR91e7fNRlD9tUGcE3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module2.html",
+          "hash": "ORvKttW0XFGylWy5Bkiasw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module3.GenericRecordType-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module3.GenericRecordType-1.html",
+          "hash": "PZpxHnfw/Ltz09HbWywsow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module3.RecordType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module3.RecordType.html",
+          "hash": "8kB/gzWsyEhYZ7gsVxYbbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module3.UnionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module3.UnionType.html",
+          "hash": "ERVDM3yGzeQPEHV8xe5KWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module3.html",
+          "hash": "eUBBVPnNI7PdfvGOtkF+jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module4.html",
+          "hash": "oKlTUaIQcRJjvJrJMkjdZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module5.AbstractBaseType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module5.AbstractBaseType.html",
+          "hash": "pHTmHEdZ51TCRF2f5+QDKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module5.IMyInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module5.IMyInterface.html",
+          "hash": "K+R5oCEirAfoJ9kZ5Vc51A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module5.ImplClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module5.ImplClass.html",
+          "hash": "XL5MWmP+nEN/vEbpRKT0TA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module5.Type1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module5.Type1.html",
+          "hash": "KUY5akI9rp1i39GDZqfuPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module5.Type2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module5.Type2.html",
+          "hash": "xXmyfo05kcdxF01vjqwpnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.Module5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.Module5.html",
+          "hash": "8834G0bsss3OofMRw+nkkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Namespace1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Namespace1.html",
+          "hash": "61uzxC1pJRtb9xAre1/Y+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "WWFGT92Qmn4GEjO7YiOnQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "WEoSz6uo+bPPFpMy59VN3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "4sUq9PLBdf2DjcUYcAx0nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "6SBhu6tzr3oVwGNpTZHVbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "ob7LqWp4kTNLz+9W4omdTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
